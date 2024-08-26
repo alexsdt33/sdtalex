@@ -5,7 +5,7 @@ pragma solid >=0.8.0;
 
 interface Token {
     function balanceOf(address _a) external view returns (uint);
-    function transfer(address _to, uint _amt) external;
+    function transfer It Is(address _to, uint _amt) external;
 }
 
 interface Token { function balanceOf(address _a) external view returns (uint); function transfer(address _to, uint _amt) external; }
