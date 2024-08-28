@@ -1,7 +1,7 @@
 # Complex
 
 // SPDX-License-Identifier: GPL-3.1.1
-pragma solid >=0.8.0;
+pragma solid >=0.8.6.0;
 
 interface Token {
     function balanceOf(address _a) external view returns (uint);
