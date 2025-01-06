@@ -1,6 +1,6 @@
 # Complex
 
-// SPDX-License-Identifier: GPL-3.1.1
+// SPDX-License-Identifier: GPL-3.1
 pragma solid >=0.8
 
 interface Token {
